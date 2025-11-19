@@ -1,0 +1,198 @@
+{
+  "name": "Bolt Nigeria Theme",
+  "dataColors": ["#00C853", "#E0E0E0", "#FF5722"],
+  "background": "#00C853",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#FF5722",
+  "visualStyles": {
+    "card": {
+      "background": {
+        "color": {
+          "solid": {
+            "color": "#E0E0E0"
+          }
+        }
+      },
+      "border": {
+        "color": {
+          "solid": {
+            "color": "#FF5722"
+          }
+        },
+        "show": true
+      }
+    },
+    "barChart": {
+      "dataPoint": {
+        "defaultColor": {
+          "solid": {
+            "color": "#FF5722"
+          }
+        }
+      },
+      "categoryAxis": {
+        "color": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "fontColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        }
+      },
+      "valueAxis": {
+        "color": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "fontColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        }
+      },
+      "background": {
+        "color": {
+          "solid": {
+            "color": "#E0E0E0"
+          }
+        }
+      }
+    },
+    "columnChart": {
+      "dataPoint": {
+        "defaultColor": {
+          "solid": {
+            "color": "#00C853"
+          }
+        },
+        "fill": [
+          {
+            "color": "#00C853"
+          },
+          {
+            "color": "#007E33"
+          }
+        ]
+      },
+      "categoryAxis": {
+        "color": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "fontColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        }
+      },
+      "valueAxis": {
+        "color": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "fontColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        }
+      },
+      "background": {
+        "color": {
+          "solid": {
+            "color": "#E0E0E0"
+          }
+        }
+      }
+    },
+    "map": {
+      "dataPoint": {
+        "defaultColor": {
+          "solid": {
+            "color": "#00C853"
+          }
+        },
+        "show": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FF5722"
+              }
+            }
+          }
+        ]
+      },
+      "background": {
+        "color": {
+          "solid": {
+            "color": "#E0E0E0"
+          }
+        }
+      }
+    },
+    "table": {
+      "tableEx": {
+        "backgroundColor": {
+          "solid": {
+            "color": "#E0E0E0"
+          }
+        },
+        "gridColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "headerBackgroundColor": {
+          "solid": {
+            "color": "#00C853"
+          }
+        },
+        "headerColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "totalBackgroundColor": {
+          "solid": {
+            "color": "#FF5722"
+          }
+        },
+        "totalColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        }
+      }
+    },
+    "*": {
+      "slicer": {
+        "background": {
+          "color": {
+            "solid": {
+              "color": "#E0E0E0"
+            }
+          }
+        },
+        "foreground": {
+          "color": {
+            "solid": {
+              "color": "#00C853"
+            }
+          }
+        },
+        "selected": {
+          "color": {
+            "solid": {
+              "color": "#FF5722"
+            }
+          }
+        }
+      }
+    }
+  }
+}
